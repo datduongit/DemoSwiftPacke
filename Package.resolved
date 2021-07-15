@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AppAuth",
+        "repositoryURL": "https://github.com/openid/AppAuth-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "01131d68346c8ae552961c768d583c715fbe1410",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "SPMDeveloperInsider",
+        "repositoryURL": "https://github.com/developerinsider/SPMDeveloperInsider",
+        "state": {
+          "branch": null,
+          "revision": "2b211a44947e1ea8ef6054aaa17f43ccdc56477d",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
