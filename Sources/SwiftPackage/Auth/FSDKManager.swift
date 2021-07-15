@@ -6,6 +6,8 @@
 //
 
 public class FSDKManager {
-    public static func login()
+    public static func login() {
+        print("login")
+    }
 }
 
