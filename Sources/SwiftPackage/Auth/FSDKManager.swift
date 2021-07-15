@@ -12,6 +12,11 @@ public class FSDKManager {
         print("login")
         let sum = SPMDeveloperInsider.init().Sum(num1: 1, num2: 4)
         print(sum)
+        
+        
+        OIDAuthorizationService.discoverConfiguration(forIssuer: URL(string: "")!) { [weak self] _, _ in
+            
+        }
     }
 }
 
