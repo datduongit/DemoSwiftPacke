@@ -4,7 +4,7 @@
 //
 //  Created by Edric D. on 15/07/2021.
 //
-//import AppAuth
+import AppAuth
 import SPMDeveloperInsider
 
 public class FSDKManager {
@@ -14,9 +14,9 @@ public class FSDKManager {
         print(sum)
 
 
-//        OIDAuthorizationService.discoverConfiguration(forIssuer: URL(string: "")!) { _, _ in
-//
-//        }
+        OIDAuthorizationService.discoverConfiguration(forIssuer: URL(string: "")!) { _, _ in
+
+        }
     }
 }
 
