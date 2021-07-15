@@ -14,7 +14,7 @@ public class FSDKManager {
         print(sum)
         
         
-        OIDAuthorizationService.discoverConfiguration(forIssuer: URL(string: "")!) { [weak self] _, _ in
+        OIDAuthorizationService.discoverConfiguration(forIssuer: URL(string: "")!) { _, _ in
             
         }
     }
